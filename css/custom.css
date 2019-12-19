@@ -113,7 +113,7 @@ label {
 /* event banner css */
 .event-banner-wrapper-coming {
 /* The image used */
-  background-image: url("../images/cassette.jpeg");
+  background-image: url("../images/light.jpg");
 
   /* Full height */
   height: 100%;
@@ -166,7 +166,7 @@ label {
 .event-banner-wrapper h4 {
     position: absolute;
 	font-family: 'Montserrat', 'Source Sans Pro', sans-serif;
-	font-size: 4vw;
+	font-size: 3vw;
     font-weight: 600;
 	line-height: 3.5vw;
     color: #fff;
