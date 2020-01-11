@@ -164,9 +164,8 @@ label {
 }
 
 .event-banner-wrapper h4 {
-    position: absolute;
 	font-family: 'Montserrat', 'Source Sans Pro', sans-serif;
-	font-size: 3vw;
+	font-size: 50px;
     font-weight: 600;
 	line-height: 3.5vw;
     color: #fff;
@@ -178,7 +177,7 @@ label {
 .event-banner-wrapper h4 span {
     display: block;
     color: rgba(0, 0, 0, 0.776);
-    font-size: 0.8vw;
+    font-size: 15px;
 }
 
 .event-banner-wrapper p {
